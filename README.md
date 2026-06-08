@@ -2,7 +2,7 @@
 
 This project **complements the project named ‘tailor-pulp-e-commerce-web-app’** published on Github.
 
-For context, like the original project, this project features a **completely fictional company** named Tailor'Pulp, created for **illustrative purposes**.
+For context, like the original project, this project features a **completely fictional company**, created for **illustrative purposes**.
 **All company names, brands, products, employees, or locations mentioned** in the code, frontend are **fictitious**.
 
 Any resemblance to a real company, whether existing or defunct, is **purely coincidental**.
