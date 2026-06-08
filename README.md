@@ -48,7 +48,7 @@ Have generated an App Password for Google SMTP (optional if another SMTP service
 ## 2. Set up the repository
 
 ```bash
-git clone https://github.com/alextechbuild/tailor-pulp-e-commerce-web-app-sb-jv.git
+git clone https://github.com/alextechbuild/e-commerce-web-app-sb-jv.git
 ```
 
 Navigate to the repository
